@@ -1,4 +1,8 @@
-<To be filled later>
+About me:
+* Building [CloudSkew](https://www.cloudskew.com)
+* .NET, Azure, Angular consulting
+* Skewed Ventures
+* Ex-Microsoft 
 
 Find me on:
 * [twitter](https://twitter.com/MithunShanbhag)

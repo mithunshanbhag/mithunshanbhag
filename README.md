@@ -1,7 +1,6 @@
 About me:
-* Building [CloudSkew](https://www.cloudskew.com)
+* Building [CloudSkew](https://www.cloudskew.com) (an online flowchart, diagram maker)
 * .NET, Azure, Angular consulting
-* Skewed Ventures
 * Ex-Microsoft 
 
 Find me on:

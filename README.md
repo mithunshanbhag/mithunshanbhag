@@ -1,7 +1,9 @@
 About me:
-👉 Building [CloudSkew](https://www.cloudskew.com) (an online flowchart, diagram maker)
-⚡ .NET, Azure, Angular consulting
- Ex-Microsoft 
+- 👉 Building [CloudSkew](https://www.cloudskew.com) (an online flowchart, diagram maker)
+- ⚡ .NET, Azure, Angular consulting
+- 👋 Ex-Microsoft 
+
+------
 
 Find me on:
 * [twitter](https://twitter.com/MithunShanbhag)

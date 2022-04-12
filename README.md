@@ -1,5 +1,8 @@
 About me:
-- 👉 Building [CloudSkew](https://www.cloudskew.com) (an online flowchart, diagram maker)
+- 👉 Building micro-SaaS
+  - [CloudSkew](https://www.cloudskew.com): an online flowchart, diagram maker
+  - [QuizHub](https://quiz.konfhub.com): a real-time quiz app
+  - and more...
 - ⚡ .NET, Azure, Angular consulting
 - 👋 Ex-Microsoft 
 

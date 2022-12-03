@@ -5,6 +5,6 @@ About me:
   - and more...
 - ⚡ .NET, Azure, Angular consulting
 - 👋 Ex-Microsoft 
-- Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
+- 👍 Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
 
-K Thx Bye!
+K Thx Bye! 

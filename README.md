@@ -1,5 +1,5 @@
 About me:
-- 👉 Creator
+- 👉 Creator of:
   - [CloudSkew](https://www.cloudskew.com): an online flowchart, diagram maker
   - [QuizHub](https://quiz.konfhub.com): a real-time quiz app
   - and other micro-SaaS...

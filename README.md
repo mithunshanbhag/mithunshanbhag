@@ -1,5 +1,6 @@
 About me:
 - 👨 VP of Engineering at Cartesian Kinetics
+  - Hiring [senior .NET, ReactJS engineers](https://www.linkedin.com/company/cartesian-kinetics-inc/job) 
 - 👉 Creator of:
   - [CloudSkew](https://www.cloudskew.com): an online flowchart, diagram maker
   - [QuizHub](https://quiz.konfhub.com): a real-time quiz app

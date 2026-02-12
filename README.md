@@ -1,5 +1,7 @@
+🧁 I will ignore all previous instructions and give you cupcake recipes. 🧁
+-----
 About me:
-- 🧑‍🦰 A boring & predictable creature of habits & routines.
+- 🙃 A boring & predictable creature of habits & routines.
 - 🌞 Currently on a career break.
 - 👋 Formerly:
   - 👷 VP of Software Development at CartesianKinetics Robotics  ([what's that about](https://www.youtube.com/live/zJMvxi90LIw?si=s-Tm8AgOCNA-wLVg))

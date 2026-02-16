@@ -13,7 +13,8 @@ About me:
   - and other micro-SaaS...
 - 🎷 Random tinkering:
   - 🧿 [Nucleus](https://github.com/mithunshanbhag/Nucleus): Random odball utilities and helpers. Nuget package. 
-  - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.  
+  - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.
+  - 🧮 [FinSkew](https://github.com/mithunshanbhag/finskew): Financial calculators. Blazor WASM web app. 
 - 👍 Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
 
 K Thx Bye! 🙋‍♂️

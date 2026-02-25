@@ -12,9 +12,10 @@ About me:
   - 🥭 [QuizHub](https://quiz.konfhub.com): a real-time quiz app ([see recipe](https://youtu.be/ZzUsrNottPc?si=QyHU52Kvx3DQhY-K))
   - and other micro-SaaS...
 - 🎷 Random tinkering:
-  - 🧿 [Nucleus](https://github.com/mithunshanbhag/Nucleus): Random odball utilities and helpers. Nuget package. 
+  - 🧿 [Nucleus](https://github.com/mithunshanbhag/Nucleus): Random odball utilities and helpers. Nuget package.
   - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.
-  - 🧮 [FinSkew](https://github.com/mithunshanbhag/finskew): Financial calculators. Blazor WASM web app. 
+  - 🧮 [FinSkew](https://github.com/mithunshanbhag/finskew): Financial calculators. Web app.
+  - 🖥️ [Desk Quotes](https://github.com/mithunshanbhag/desk-quotes): Rotating wallpapers with your favorite quotes. Windows system tray app.  
 - 👍 Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
 
 K Thx Bye! 🙋‍♂️

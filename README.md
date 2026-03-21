@@ -16,7 +16,8 @@ About me:
   - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.
   - 🧮 [FinSkew](https://github.com/mithunshanbhag/finskew): Financial calculators. Web app.
   - 🖥️ [Desk Quotes](https://github.com/mithunshanbhag/desk-quotes): Rotating wallpapers with your favorite quotes. Windows system tray app.
-  - 📱 [Web2Fig](https://github.com/mithunshanbhag/web2fig): Generate figma bundle from any source website. CLI app. 
+  - 🌃 [Web2Fig](https://github.com/mithunshanbhag/web2fig): Generate figma bundle from any source website. CLI app.
+  - 💪 [Streak](https://github.com/mithunshanbhag/streak): Habit tracker. Android app.
 - 👍 Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
 
 K Thx Bye! 🙋‍♂️

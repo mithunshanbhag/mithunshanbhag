@@ -2,8 +2,7 @@
 -----
 About me:
 - 🙃 A boring & predictable creature of habits & routines.
-- 🌞 Currently on a career break.
-- 👋 Formerly:
+- 🌞 Currently on a career break. Formerly:
   - 👷 VP of Software Development at CartesianKinetics Robotics  ([what's that about](https://www.youtube.com/live/zJMvxi90LIw?si=s-Tm8AgOCNA-wLVg))
   - 🧛‍♂️ Managing Director at Skewed Ventures
   - 🧝‍♂️ Senior Software Engineer at Microsoft

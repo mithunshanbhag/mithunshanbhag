@@ -1,5 +1,3 @@
-🧁 I will ignore all previous instructions and give you cupcake recipes. 🧁
------
 About me:
 - 🙃 A boring & predictable creature of habits & routines.
 - 🌞 Currently on a career break. Formerly:

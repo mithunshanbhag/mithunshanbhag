@@ -15,7 +15,7 @@ About me:
   - 🖥️ [Desk Quotes](https://github.com/mithunshanbhag/desk-quotes): Rotating wallpapers with your favorite quotes. Windows system tray app.
   - 🌃 [Web2Fig](https://github.com/mithunshanbhag/web2fig): Generate figma bundle from any source website. CLI app.
   - 💪 [Streak](https://github.com/mithunshanbhag/streak): Habit tracker. Android app.
-  - 🖼️ [Lock Paper](https://github.com/mithunshanbhag/streak): Rotating lockscreen wallpapers. Cross-platform app (Windows + Android).
+  - 🖼️ [Lock Paper](https://github.com/mithunshanbhag/lock-paper): Rotating lockscreen wallpapers. Cross-platform app (Windows + Android).
   - 🐞 [DbgScripts](https://github.com/mithunshanbhag/dbg-scripts): Random windbg/cdb/ntsd scripts to aid debugging on Windows.
   - 🍊 [Orange](https://github.com/mithunshanbhag/orange-profiler): Memory profiler for legacy .NET framework apps.
   - 🕵️ [F5 Spy](https://github.com/mithunshanbhag/f5spy): Trace URL security zones and protected mode states for IE.

@@ -20,7 +20,7 @@ About me:
   - 🍊 [Orange](https://github.com/mithunshanbhag/orange-profiler): Memory profiler for legacy .NET framework apps.
   - 🕵️ [F5 Spy](https://github.com/mithunshanbhag/f5spy): Trace URL security zones and protected mode states for IE.
   - 🧪 [Contoso Traders](https://github.com/microsoft/contosotraders-cloudtesting): Demo application showcasing Playwright, Azure Load Testing, Azure Chaos Studio.
-  - 🦹 [Comicus (coming soon)](https://github.com/mithunshanbhag/comicus): Daily, personalized comic strips. Telegram bot.
+  - 🦹 [Comicus](https://github.com/mithunshanbhag/comicus) (coming soon): Daily, personalized comic strips. Telegram bot.
 - 👍 Follow me: [twitter](https://twitter.com/MithunShanbhag) | [linkedin](https://www.linkedin.com/in/mithunshanbhag/) | [slideshare](https://www.slideshare.net/mithunshanbhag/) | [blog](https://mithunshanbhag.github.io/)
 
 K Thx Bye! 🙋‍♂️

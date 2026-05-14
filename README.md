@@ -9,13 +9,13 @@ About me:
   - 🥭 [QuizHub](https://quiz.konfhub.com): a real-time quiz app ([see recipe](https://youtu.be/ZzUsrNottPc?si=QyHU52Kvx3DQhY-K))
   - and other micro-SaaS...
 - 🎷 Random tinkering:
-  - 🧿 [Nucleus](https://github.com/mithunshanbhag/Nucleus): Random odball utilities and helpers. Nuget package.
-  - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.
   - 🧮 [FinSkew](https://github.com/mithunshanbhag/finskew): Financial calculators. Web app.
   - 🖥️ [Desk Quotes](https://github.com/mithunshanbhag/desk-quotes): Rotating wallpapers with your favorite quotes. Windows system tray app.
   - 🌃 [Web2Fig](https://github.com/mithunshanbhag/web2fig): Generate figma bundle from any source website. CLI app.
   - 💪 [Streak](https://github.com/mithunshanbhag/streak): Habit tracker. Android app.
   - 🖼️ [Lock Paper](https://github.com/mithunshanbhag/lock-paper): Rotating lockscreen wallpapers. Cross-platform app (Windows + Android).
+  - 🧿 [Nucleus](https://github.com/mithunshanbhag/Nucleus): Random odball utilities and helpers. Nuget package.
+  - 🎯 [Quizzical](https://github.com/mithunshanbhag/quizzical): AI-generated quizzes. CLI app.
   - 🐞 [DbgScripts](https://github.com/mithunshanbhag/dbg-scripts): Random windbg/cdb/ntsd scripts to aid debugging on Windows.
   - 🍊 [Orange](https://github.com/mithunshanbhag/orange-profiler): Memory profiler for legacy .NET framework apps.
   - 🕵️ [F5 Spy](https://github.com/mithunshanbhag/f5spy): Trace URL security zones and protected mode states for IE.
